@@ -85,7 +85,7 @@ _(Bạn có thể bổ sung thêm vào danh sách bằng cách tạo Issue hoặ
 
 ## Lời khuyên
 
-Nếu bạn thật sự muốn làm máy chủ Minecraft, bạn nên cân nhắc bỏ tiền ra mua thay vì mong chờ các Summerhost trên, không có gì là miễn phí cả. Các dịch vụ cho thuê máy chủ Minecraft giá rẻ ở Việt Nam phải kể đến như Asaka Cloud, DPT Cloud, HVM, ...)
+Nếu bạn thật sự muốn làm máy chủ Minecraft, bạn nên cân nhắc bỏ tiền ra mua thay vì mong chờ các Summerhost trên, không có gì là miễn phí cả. Các dịch vụ cho thuê máy chủ Minecraft giá rẻ uy tín ở Việt Nam phải kể đến như Asaka Cloud, DPTCloud,...)
 
 Nếu bạn không có tiền và chỉ muốn có máy chủ Minecraft để chơi chung với bạn bè, thì các lựa chọn cho bạn sẽ là Aternos, MineHut, ... Nên nhớ bạn dùng đồ miễn phí thì phải chấp nhận nó không khỏe như các máy chủ trả phí, nhưng bạn có thể đảm bảo được dữ liệu an toàn và lâu dài. Và cũng đừng nghĩ đến việc lợi dụng lỗ hổng để cho máy chủ chạy 24/7, không khác gì ăn cháo đá bát.
 
