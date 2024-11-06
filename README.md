@@ -1,8 +1,8 @@
 # Summerhost là gì? Và tại sao bạn không nên sử dụng?
 
-Xin chào, hiện nay có rất nhiều các Summerhost tồn tại trên mạng, và bài viết này để khuyên các bạn đừng bao giờ sử dụng chúng.
+Bạn đang tìm kiếm một hosting Minecraft vừa miễn phí vừa có thể chạy 24/7 vừa có cấu hình cao?? **Dừng lại ngay**, vì 99% hosting đó là **Summerhost**. Vậy Summerhost là gì? Cùng tìm hiểu qua bài viết dưới đây nhé :D
 
-## Định nghĩa Summer Host
+## Định nghĩa Summerhost
 
 *   Summerhost, được định nghĩa là các hosting có chất lượng rất kém, thường chỉ mở trong một thời gian ngắn tầm 1-3 tháng rồi sập. Summerhost là từ ghép từ 2 từ tiếng Anh là "Summer" - mùa hè, do thường các hosting này hoạt động mạnh vào mùa hè khi các bạn học sinh có thời gian rảnh, và "Host" - hosting, là các đơn vị cung cấp nơi chạy máy chủ như máy chủ Minecraft.
     
@@ -90,3 +90,9 @@ Nếu bạn thật sự muốn làm máy chủ Minecraft, bạn nên cân nhắc
 Nếu bạn không có tiền và chỉ muốn có máy chủ Minecraft để chơi chung với bạn bè, thì các lựa chọn cho bạn sẽ là Aternos, MineHut, ... Nên nhớ bạn dùng đồ miễn phí thì phải chấp nhận nó không khỏe như các máy chủ trả phí, nhưng bạn có thể đảm bảo được dữ liệu an toàn và lâu dài. Và cũng đừng nghĩ đến việc lợi dụng lỗ hổng để cho máy chủ chạy 24/7, không khác gì ăn cháo đá bát.
 
 Vậy thôi, cảm ơn vì đã đọc :D
+
+---
+
+Giúp mình chỉnh sửa bài viết này: https://github.com/actuallyundefined/summerhost
+
+Bài viết được thực hiện bởi [Undefined](https://undefined.is-a.dev)
