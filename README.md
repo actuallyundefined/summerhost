@@ -89,6 +89,10 @@ Nếu bạn thật sự muốn làm máy chủ Minecraft, bạn nên cân nhắc
 
 Nếu bạn không có tiền và chỉ muốn có máy chủ Minecraft để chơi chung với bạn bè, thì các lựa chọn cho bạn sẽ là Aternos, MineHut, ... Nên nhớ bạn dùng đồ miễn phí thì phải chấp nhận nó không khỏe như các máy chủ trả phí, nhưng bạn có thể đảm bảo được dữ liệu an toàn và lâu dài. Và cũng đừng nghĩ đến việc lợi dụng lỗ hổng để cho máy chủ chạy 24/7, không khác gì ăn cháo đá bát.
 
+> [!IMPORTANT]
+> Bạn có quyền sử dụng bất kì hosting nào bạn muốn, mình không có quyền bắt ép bạn phải theo lời khuyên của mình. Bài viết chỉ mang tính chất thông tin vì mình chưa thấy ai viết bài về topic này trước đây.
+> Các hosting được liệt kê trong lời khuyên bên trên là để tham khảo, mình không nhận tiền quảng cáo bất kì hosting nào.
+
 Vậy thôi, cảm ơn vì đã đọc :D
 
 ---
